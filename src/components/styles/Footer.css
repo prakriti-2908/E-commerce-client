@@ -1,0 +1,21 @@
+.bottom-footer{
+    color: white;
+    background-color: #8d91c7;
+}
+
+.upper-footer{
+    color: white;
+    background-color: #8e95ec !important;
+}
+
+.text-body{
+    color: white !important;
+    text-decoration: none !important;
+    margin: 5rem;
+    cursor: pointer;
+    line-height: 2rem;
+}
+
+footer{
+    margin-top: 3rem;
+}

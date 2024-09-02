@@ -1,0 +1,34 @@
+.pnf{
+    background-color: white;
+    color: black;
+    width: 100%;
+    display: flex;
+    column-gap: 8rem;
+    padding: 3% 10%;
+    margin-bottom: 5.5rem;
+    /* border: 1px solid #646BD9; */
+}
+
+.pnf img{
+    height: 25rem;
+    border-radius: 50%;
+}
+
+.pnf-left{
+    padding-top: 4rem;
+}
+
+#typewriterPnf{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #646BD9;
+    position: absolute;
+    top: 33rem;
+    left: 10rem;
+    
+
+}
+
+.pageNotFound video{
+    height: 25rem;
+}

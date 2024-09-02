@@ -1,0 +1,28 @@
+.Delete{
+    border: 1px solid #D2D2D2;
+    width: 38vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 10%;
+    padding: 5rem;
+    border-radius: 3rem;
+    row-gap: 3rem;
+}
+
+.delete-top{
+    border-bottom: 1px solid #D2D2D2;
+    padding-bottom: 3rem;
+}
+
+.delete-bottom{
+    display: flex;
+    column-gap: 3rem;
+}
+
+.delete-bottom button{
+    background-color: #646bd9;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.container-form{
+    width: 40vw;
+}
+
+.contact-container{
+    position: relative;
+}
+
+.card{
+    position: relative;
+    left: 8rem;
+    margin-top: 5rem;
+}
+
+.contact-video{
+    height: 100% !important;
+}
