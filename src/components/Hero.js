@@ -21,7 +21,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="hero-left">
-        <h1>Chhammak Chhallo</h1>
+        <h1>Ethnic Hub</h1>
         <h3>Your One Stop for All Ethnic Attire</h3>
         <p>Elevate your elegance with Chhammak Chhallo's stunning ethnic wear, where tradition meets timeless style.</p>
         <button type="button" className="hero-btn" onClick={scrollDown}>
